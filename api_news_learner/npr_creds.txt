@@ -1,0 +1,9 @@
+ID: nprone_trial_8yD7GDIgqzha
+Secret: VvCf5VpuhgDAUZvirLPli2nwwRGY0ctfjdTgcTZU
+
+https://authorization.api.npr.org/v2/authorize?client_id=nprone_trial_8yD7GDIgqzha&redirect_uri=https%3A%2F%2F127.0.0.1%2Fnpr_callback&response_type=code&scope=listening.readonly%20identity.readonly&state=testtoken
+
+
+
+###### APINews ########
+api_key = 9ef54fc6de7f4bea859b8a0a93a92c5a
